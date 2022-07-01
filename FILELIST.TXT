@@ -1,0 +1,19 @@
+web\lib\
+images/
+
+; Rubruca libs
+web\lib\jackson-core-asl-1.7.1.jar
+web\lib\jackson-jaxrs-1.7.1.jar
+web\lib\jackson-mapper-asl-1.7.1.jar
+web\lib\jackson-xc-1.7.1.jar
+web\lib\jaxb-impl-2.1.12.jar
+web\lib\jersey-client-1.8.jar
+web\lib\jersey-core-1.8.jar
+web\lib\jersey-json-1.8.jar
+web\lib\jsr311-api-1.1.1.jar
+web\lib\AddressBook.jar
+
+images/1320914948_application_view_list.png
+
+;Modelli
+modelli\TemplateImportazioneRubriche.csv
